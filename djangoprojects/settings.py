@@ -25,11 +25,9 @@ SECRET_KEY = '+zey=4b%l7+m8lx5j%a+f0*l=uv9_!)&_bb8+9w^mc&qlhx)na'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-<<<<<<< HEAD
+
 ALLOWED_HOSTS = ['voting-app21.herokuapp.com','127.0.0.1']
-=======
-ALLOWED_HOSTS = ['voting-app21.herokuapp.com','127.0.0.1']
->>>>>>> e00e499003154a75e74b1e021eabce04d39b5c6d
+
 
 
 # Application definition
